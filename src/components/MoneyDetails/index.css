@@ -1,0 +1,57 @@
+.greenContainer {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ecfccb;
+  border: 5px solid #84cc16;
+  border-radius: 12px;
+  padding: 12px;
+  color: #1e293b;
+  margin: 8px;
+  margin-right: 20px;
+}
+
+.imgElement {
+  height: 60px;
+  margin-right: 40px;
+}
+
+.element {
+  font-size: 30px;
+}
+
+.amount {
+  font-size: 40px;
+}
+.moneyContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.blueContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #cffafe;
+  border: 5px solid #06b6d4;
+  border-radius: 12px;
+  padding: 12px;
+  color: #1e293b;
+  margin: 8px;
+  margin-right: 20px;
+}
+.violetContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ede9fe;
+  border: 5px solid #7c3aed;
+  border-radius: 12px;
+  padding: 12px;
+  color: #1e293b;
+  margin: 8px;
+}
